@@ -10,7 +10,6 @@ One page responsive sign up form. Using only HTML and CSS, create a one page sit
 Javascript will not be required for this assignment.
 
 No frameworks are to be used. (bootstrap, foundation, etc.). No copying and pasting either.
-
 ## Specifics
 
 **1. Create your own file tree.**
